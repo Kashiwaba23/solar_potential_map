@@ -14,9 +14,8 @@ Due to limited time schedule and computational power, we were only able to retra
 
 We calculated the white space present in each output mask to calculate rooftop area. This area was then used to calculate solar power generation potentials as well as CO2 offset figures.
 
-_DROP SCREENSHOT HERE_
-<br>
-App home: https://WHATEVER.herokuapp.com
+
+App home: https://solarpotentialmap-bsaex9a7bfnzefju8zrtng.streamlit.app/
    
 
 ## Getting Started
